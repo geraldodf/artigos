@@ -15,3 +15,4 @@ Cada diretório desse repositório terá o código-fonte de um artigo diferente.
  - [Encoding do Java no Eclipse](https://blog.formacao.dev/encoding-do-java-no-eclipse/)
  - [Variável de ambiente do Java no Windows](https://blog.formacao.dev/criando-uma-variavel-de-ambiente-do-java-no-windows/)
  - [Pacote de Desenvolvedor do GitHub](https://blog.formacao.dev/pacote-de-desenvolvedor-para-estudantes-do-github/)
+ - [Composição em Java](https://blog.formacao.dev/composicao-no-java-o-que-e-e-como-funciona/)
